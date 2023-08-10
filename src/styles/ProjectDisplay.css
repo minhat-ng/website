@@ -1,0 +1,39 @@
+.project {
+  width: 100%;
+  height: calc(100vh - 100px);
+  display: flex;
+  font-family: "Inter var",-apple-system,BlinkMacSystemFont,"Segoe UI","Roboto","Oxygen","Ubuntu","Cantarell","Fira Sans","Droid Sans","Helvetica Neue";
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.project-content{
+  max-width: 500px;
+  font-size: 16px;
+  margin: auto;
+}
+.project-content h1 {
+  font-size: 30px;
+}
+.project-content h3 {
+  font-size: 20px;
+  color: grey;
+}
+.project-content img {
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+  width: 200px;
+  height: 40%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.project-content p {
+  font-size: 16px;
+}
+
+.project-content svg {
+  font-size: 16px;
+}
