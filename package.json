@@ -1,7 +1,8 @@
 {
-  "homepage": "https://minhnhat-ng.github.io/nhat-nguyen",
   "name": "nhat-nguyen",
   "version": "0.1.0",
+  "homepage": "https://minhnhat-ng.github.io",
+
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.12.4",
